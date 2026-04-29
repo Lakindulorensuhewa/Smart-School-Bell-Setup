@@ -91,8 +91,9 @@ Smart School Bell System is a Windows desktop application that replaces manual b
 
 ## ⬇️ Download
 
-Latest Release:  
-https://github.com/lakindulorensuhewa/smart-school-bell-system/releases/latest
+Latest Release:
+
+[Click Here](https://smartschoolbell.vercel.app/download)
 
 ### Bundled Version
 - ~53 MB
