@@ -14,7 +14,7 @@ Zero maintenance. Zero manual input. Rings perfectly — every time.
 
 <br/>
 
-[Download](#download) · [Tutorial](#tutorial--user-guide) · [Features](#features) · [Developer](#developer) · [Website](https://smartschoolbell.vercel.app)
+[Download](https://smartschoolbell.vercel.app/download) · [Tutorial](https://smartschoolbell.vercel.app/tutorial) · [Features](https://smartschoolbell.vercel.app/about) · [Developer](https://smartschoolbell.vercel.app/developer) · [Website](https://smartschoolbell.vercel.app/)
 
 </div>
 
@@ -182,7 +182,7 @@ https://github.com/lakindulorensuhewa/smart-school-bell-system/releases/latest
 ## 👨‍💻 Developer
 
 **Lakindu Lorensuhewa**  
-Founder · PrimeLandMC · Sri Lanka
+A Founder · PrimeLandMC · Sri Lanka
 
 *"Gaming is my passion, coding is my craft, success is my goal."*
 
